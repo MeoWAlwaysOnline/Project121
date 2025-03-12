@@ -1,0 +1,153 @@
+body {
+    margin: 0;
+}
+
+
+.titlehead {
+    font-size: 32px;
+    color: #779611;
+    font-weight: 600;
+    margin-left: 30px;
+}
+
+header {
+    border-bottom: solid 2px #779611;
+    display: flex;
+    align-items: center;
+}
+
+.Stexts {
+    display: flex;
+    gap: 80px;
+    margin-left: 120px;
+}
+
+.headtext1 {
+    font-size: 48px;
+    color: #779611;
+    font-weight: 600;
+    max-width: 376px;
+    margin: 0;
+    margin-bottom: 60px;
+}
+
+.card1 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+    align-items: center;
+    border-bottom: solid 2px #779611;
+
+}
+
+.text101 {
+    font-weight: 400;
+    font-size: 24px;
+    max-width: 580px;
+    margin: 0;
+}
+
+.Shop {
+    background-color: #779611;
+    border-radius: 40px;
+    font-weight: 400;
+    font-size: 32px;
+    color: #F9F9F9;
+    width: 224px;
+    height: 74px;
+    margin-top: 60px;
+    border: none;
+}
+
+.textsize1 {
+    font-size: 36px;
+}
+
+.moretext {
+    font-size: 20px;
+}
+
+.B2 {
+    max-width: 500px;
+    margin-left: 1.5%;
+}
+
+.imgs {
+    display: flex;
+    justify-content: space-around;
+}
+
+.value1 {
+    color: #779611;
+    margin-right: 15%;
+}
+
+
+.values {
+    display: flex;
+    justify-content: space-around;
+}
+
+.Stexts {
+    font-size: 20px;
+    color: #707070;
+}
+
+.ShopP {
+    margin-top: 80px;
+}
+
+.products {
+    border-bottom: solid #779611 2px;
+}
+
+.textgreen {
+    font-size: 24px;
+    color: #779611;
+    margin-left: 70px;
+    margin-top: 0;
+}
+
+.titletext2 {
+    font-size: 48px;
+}
+
+.moretexts {
+    max-width: 550px;
+    
+}
+
+.paragraph {
+    font-size: 20px;
+}
+
+.titletext3 {
+    font-weight: 600;
+}
+
+.aboutus100 {
+    font-weight: 500;
+    margin-top: 80px;
+}
+
+.paragraph {
+    margin-left: 70px;
+    font-weight: 400;
+}
+
+.last {
+    max-width: 560px;
+}
+
+.something2 {
+    margin-top: 60px;
+    border-bottom: solid #779611 2px;
+    padding-bottom: 60px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+}
